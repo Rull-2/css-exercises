@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+
+button{
+    border-color: grey;
+    border: 1px 1px 1px 1x;
+}
+#but1{
+    background-color: black;
+    color: white;
+}
+#but2{
+    background-color: yellow;
+}

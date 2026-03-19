@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+p{
+    background-color: pink;
+}
+#num4{
+    font-weight: bold;
+    font-size: 24px;
+    background-color: rgb(96, 222, 150);
+}
+#num2{
+    font-size: 35px;
+    color: blue;
+}
+
+#num3{
+    font-size: 30px;
+}
+#num1, #num5{
+    font-weight: 500;
+}
