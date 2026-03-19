@@ -1,0 +1,18 @@
+#Judul{
+    
+    background-color: red;
+    display: flex;
+    font-size: x-large;
+    color: white;
+    justify-content: center;
+    font: bold;
+}
+#Teks{
+    color: white;
+    background-color: green;
+
+}
+#Tombol{
+    background-color: orange;
+    border-color: aliceblue;
+}
